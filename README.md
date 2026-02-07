@@ -29,6 +29,6 @@ REST API for managing student records.
 
    ```bash
 
-go run main.go
+   go run main.go
 
 4. API will run at http://localhost:8080
